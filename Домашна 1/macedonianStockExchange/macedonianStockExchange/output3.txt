@@ -1,0 +1,328 @@
+Checking missing data for ADIN from 2024-11-09
+No missing data for ADIN.
+Checking missing data for ALK from 2024-11-09
+No missing data for ALK.
+Checking missing data for ALKB from 2024-11-09
+No missing data for ALKB.
+Checking missing data for AMEH from 2024-11-09
+No missing data for AMEH.
+Checking missing data for APTK from 2024-11-09
+No missing data for APTK.
+Checking missing data for ATPP from 2024-11-09
+No missing data for ATPP.
+Checking missing data for AUMK from 2024-11-09
+No missing data for AUMK.
+Checking missing data for BANA from 2024-11-09
+No missing data for BANA.
+Checking missing data for BGOR from 2024-11-09
+No missing data for BGOR.
+Checking missing data for BIKF from 2024-11-09
+No missing data for BIKF.
+Checking missing data for BIM from 2024-11-09
+No missing data for BIM.
+Checking missing data for BLTU from 2024-11-09
+No missing data for BLTU.
+Checking missing data for CBNG from 2024-11-09
+No missing data for CBNG.
+Checking missing data for CDHV from 2024-11-09
+No missing data for CDHV.
+Checking missing data for CEVI from 2024-11-09
+No missing data for CEVI.
+Checking missing data for CKB from 2024-11-09
+No missing data for CKB.
+Checking missing data for CKBKO from 2024-11-09
+No missing data for CKBKO.
+Checking missing data for DEBA from 2024-11-09
+No missing data for DEBA.
+Checking missing data for DIMI from 2024-11-09
+No missing data for DIMI.
+Checking missing data for EDST from 2024-11-09
+No missing data for EDST.
+Checking missing data for ELMA from 2024-11-09
+No missing data for ELMA.
+Checking missing data for ELNC from 2024-11-09
+No missing data for ELNC.
+Checking missing data for ENER from 2024-11-09
+No missing data for ENER.
+Checking missing data for ENSA from 2024-11-09
+No missing data for ENSA.
+Checking missing data for EUHA from 2024-11-09
+No missing data for EUHA.
+Checking missing data for EUMK from 2024-11-09
+No missing data for EUMK.
+Checking missing data for EVRO from 2024-11-09
+No missing data for EVRO.
+Checking missing data for FAKM from 2024-11-09
+No missing data for FAKM.
+Checking missing data for FERS from 2024-11-09
+No missing data for FERS.
+Checking missing data for FKTL from 2024-11-09
+No missing data for FKTL.
+Checking missing data for FROT from 2024-11-09
+No missing data for FROT.
+Checking missing data for FUBT from 2024-11-09
+No missing data for FUBT.
+Checking missing data for GALE from 2024-11-09
+No missing data for GALE.
+Checking missing data for GDKM from 2024-11-09
+No missing data for GDKM.
+Checking missing data for GECK from 2024-11-09
+No missing data for GECK.
+Checking missing data for GECT from 2024-11-09
+No missing data for GECT.
+Checking missing data for GIMS from 2024-11-09
+No missing data for GIMS.
+Checking missing data for GRDN from 2024-11-09
+No missing data for GRDN.
+Checking missing data for GRNT from 2024-11-09
+No missing data for GRNT.
+Checking missing data for GRSN from 2024-11-09
+No missing data for GRSN.
+Checking missing data for GRZD from 2024-11-09
+No missing data for GRZD.
+Checking missing data for GTC from 2024-11-09
+No missing data for GTC.
+Checking missing data for GTRG from 2024-11-09
+No missing data for GTRG.
+Checking missing data for IJUG from 2024-11-09
+No missing data for IJUG.
+Checking missing data for INB from 2024-11-09
+No missing data for INB.
+Checking missing data for INHO from 2024-11-09
+No missing data for INHO.
+Checking missing data for INOV from 2024-11-09
+No missing data for INOV.
+Checking missing data for INPR from 2024-11-09
+No missing data for INPR.
+Checking missing data for INTP from 2024-11-09
+No missing data for INTP.
+Checking missing data for JAKO from 2024-11-09
+No missing data for JAKO.
+Checking missing data for JUSK from 2024-11-09
+No missing data for JUSK.
+Checking missing data for KARO from 2024-11-09
+No missing data for KARO.
+Checking missing data for KDFO from 2024-11-09
+No missing data for KDFO.
+Checking missing data for KJUBI from 2024-11-09
+No missing data for KJUBI.
+Checking missing data for KKST from 2024-11-09
+No missing data for KKST.
+Checking missing data for KLST from 2024-11-09
+No missing data for KLST.
+Checking missing data for KMB from 2024-11-09
+No missing data for KMB.
+Checking missing data for KMPR from 2024-11-09
+No missing data for KMPR.
+Checking missing data for KOMU from 2024-11-09
+No missing data for KOMU.
+Checking missing data for KONF from 2024-11-09
+No missing data for KONF.
+Checking missing data for KONZ from 2024-11-09
+No missing data for KONZ.
+Checking missing data for KORZ from 2024-11-09
+No missing data for KORZ.
+Checking missing data for KPSS from 2024-11-09
+No missing data for KPSS.
+Checking missing data for KULT from 2024-11-09
+No missing data for KULT.
+Checking missing data for KVAS from 2024-11-09
+No missing data for KVAS.
+Checking missing data for LAJO from 2024-11-09
+No missing data for LAJO.
+Checking missing data for LHND from 2024-11-09
+No missing data for LHND.
+Checking missing data for LOTO from 2024-11-09
+No missing data for LOTO.
+Checking missing data for LOZP from 2024-11-09
+No missing data for LOZP.
+Checking missing data for MAGP from 2024-11-09
+No missing data for MAGP.
+Checking missing data for MAKP from 2024-11-09
+No missing data for MAKP.
+Checking missing data for MAKS from 2024-11-09
+No missing data for MAKS.
+Checking missing data for MB from 2024-11-09
+No missing data for MB.
+Checking missing data for MERM from 2024-11-09
+No missing data for MERM.
+Checking missing data for MKSD from 2024-11-09
+No missing data for MKSD.
+Checking missing data for MLKR from 2024-11-09
+No missing data for MLKR.
+Checking missing data for MODA from 2024-11-09
+No missing data for MODA.
+Checking missing data for MPOL from 2024-11-09
+No missing data for MPOL.
+Checking missing data for MPT from 2024-11-09
+No missing data for MPT.
+Checking missing data for MPTE from 2024-11-09
+No missing data for MPTE.
+Checking missing data for MTUR from 2024-11-09
+No missing data for MTUR.
+Checking missing data for MZHE from 2024-11-09
+No missing data for MZHE.
+Checking missing data for MZPU from 2024-11-09
+No missing data for MZPU.
+Checking missing data for NEME from 2024-11-09
+No missing data for NEME.
+Checking missing data for NOSK from 2024-11-09
+No missing data for NOSK.
+Checking missing data for OBPP from 2024-11-09
+No missing data for OBPP.
+Checking missing data for OILK from 2024-11-09
+No missing data for OILK.
+Checking missing data for OKTA from 2024-11-09
+No missing data for OKTA.
+Checking missing data for OMOS from 2024-11-09
+No missing data for OMOS.
+Checking missing data for OPFO from 2024-11-09
+No missing data for OPFO.
+Checking missing data for OPTK from 2024-11-09
+No missing data for OPTK.
+Checking missing data for ORAN from 2024-11-09
+No missing data for ORAN.
+Checking missing data for OSPO from 2024-11-09
+No missing data for OSPO.
+Checking missing data for OTEK from 2024-11-09
+No missing data for OTEK.
+Checking missing data for PELK from 2024-11-09
+No missing data for PELK.
+Checking missing data for PGGV from 2024-11-09
+No missing data for PGGV.
+Checking missing data for PKB from 2024-11-09
+No missing data for PKB.
+Checking missing data for POPK from 2024-11-09
+No missing data for POPK.
+Checking missing data for PPIV from 2024-11-09
+No missing data for PPIV.
+Checking missing data for PROD from 2024-11-09
+No missing data for PROD.
+Checking missing data for PROT from 2024-11-09
+No missing data for PROT.
+Checking missing data for PTRS from 2024-11-09
+No missing data for PTRS.
+Checking missing data for RADE from 2024-11-09
+No missing data for RADE.
+Checking missing data for REPL from 2024-11-09
+No missing data for REPL.
+Checking missing data for RIMI from 2024-11-09
+No missing data for RIMI.
+Checking missing data for RINS from 2024-11-09
+No missing data for RINS.
+Checking missing data for RZEK from 2024-11-09
+No missing data for RZEK.
+Checking missing data for RZIT from 2024-11-09
+No missing data for RZIT.
+Checking missing data for RZIZ from 2024-11-09
+No missing data for RZIZ.
+Checking missing data for RZLE from 2024-11-09
+No missing data for RZLE.
+Checking missing data for RZLV from 2024-11-09
+No missing data for RZLV.
+Checking missing data for RZTK from 2024-11-09
+No missing data for RZTK.
+Checking missing data for RZUG from 2024-11-09
+No missing data for RZUG.
+Checking missing data for RZUS from 2024-11-09
+No missing data for RZUS.
+Checking missing data for SBT from 2024-11-09
+No missing data for SBT.
+Checking missing data for SDOM from 2024-11-09
+No missing data for SDOM.
+Checking missing data for SIL from 2024-11-09
+No missing data for SIL.
+Checking missing data for SKON from 2024-11-09
+No missing data for SKON.
+Checking missing data for SKP from 2024-11-09
+No missing data for SKP.
+Checking missing data for SLAV from 2024-11-09
+No missing data for SLAV.
+Checking missing data for SNBT from 2024-11-09
+No missing data for SNBT.
+Checking missing data for SNBTO from 2024-11-09
+No missing data for SNBTO.
+Checking missing data for SOLN from 2024-11-09
+No missing data for SOLN.
+Checking missing data for SPAZ from 2024-11-09
+No missing data for SPAZ.
+Checking missing data for SPAZP from 2024-11-09
+No missing data for SPAZP.
+Checking missing data for SPOL from 2024-11-09
+No missing data for SPOL.
+Checking missing data for SSPR from 2024-11-09
+No missing data for SSPR.
+Checking missing data for STB from 2024-11-09
+No missing data for STB.
+Checking missing data for STBP from 2024-11-09
+No missing data for STBP.
+Checking missing data for STIL from 2024-11-09
+No missing data for STIL.
+Checking missing data for STOK from 2024-11-09
+No missing data for STOK.
+Checking missing data for TAJM from 2024-11-09
+No missing data for TAJM.
+Checking missing data for TBKO from 2024-11-09
+No missing data for TBKO.
+Checking missing data for TEAL from 2024-11-09
+No missing data for TEAL.
+Checking missing data for TEHN from 2024-11-09
+No missing data for TEHN.
+Checking missing data for TEL from 2024-11-09
+No missing data for TEL.
+Checking missing data for TETE from 2024-11-09
+No missing data for TETE.
+Checking missing data for TIKV from 2024-11-09
+No missing data for TIKV.
+Checking missing data for TKPR from 2024-11-09
+No missing data for TKPR.
+Checking missing data for TKVS from 2024-11-09
+No missing data for TKVS.
+Checking missing data for TNB from 2024-11-09
+No missing data for TNB.
+Checking missing data for TRDB from 2024-11-09
+No missing data for TRDB.
+Checking missing data for TRPS from 2024-11-09
+No missing data for TRPS.
+Checking missing data for TRUB from 2024-11-09
+No missing data for TRUB.
+Checking missing data for TSMP from 2024-11-09
+No missing data for TSMP.
+Checking missing data for TSZS from 2024-11-09
+No missing data for TSZS.
+Checking missing data for TTK from 2024-11-09
+No missing data for TTK.
+Checking missing data for TTKO from 2024-11-09
+No missing data for TTKO.
+Checking missing data for UNI from 2024-11-09
+No missing data for UNI.
+Checking missing data for USJE from 2024-11-09
+No missing data for USJE.
+Checking missing data for VARG from 2024-11-09
+No missing data for VARG.
+Checking missing data for VFPM from 2024-11-09
+No missing data for VFPM.
+Checking missing data for VITA from 2024-11-09
+No missing data for VITA.
+Checking missing data for VROS from 2024-11-09
+No missing data for VROS.
+Checking missing data for VSC from 2024-11-09
+No missing data for VSC.
+Checking missing data for VTKS from 2024-11-09
+No missing data for VTKS.
+Checking missing data for ZAS from 2024-11-09
+No missing data for ZAS.
+Checking missing data for ZILU from 2024-11-09
+No missing data for ZILU.
+Checking missing data for ZILUP from 2024-11-09
+No missing data for ZILUP.
+Checking missing data for ZIMS from 2024-11-09
+No missing data for ZIMS.
+Checking missing data for ZKAR from 2024-11-09
+No missing data for ZKAR.
+Checking missing data for ZPKO from 2024-11-09
+No missing data for ZPKO.
+Checking missing data for ZPOG from 2024-11-09
+No missing data for ZPOG.
+Checking missing data for ZUAS from 2024-11-09
+No missing data for ZUAS.
