@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="mk">
+<head>
+    <meta charset="UTF-8">
+    <title>Акции на Македонската Берза</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Избор на акции</h1>
+
+<ul>
+    <li th:each="issuer : ${issuers}">
+        <label th:for="${issuer.getName()}" th:text="${issuer.getName()}"></label>
+        <th:block>
+            <a style="
+             margin-top: 20px;
+             color: #007BFF;
+             text-decoration: none;"   th:href="@{'/issuers/details/{id}' (id=${issuer.getID()})}"
+               class="btn btn-sm btn-info edit-product">
+                <i class="fa fa-trash">Details</i>
+            </a>
+        </th:block>
+
+    </li>
+
+
+
+
+<!--    <form th:action="@{'/issuers/details'}" method="post">-->
+<!--        <label for="stocksDropdown">Изберете компанија:</label>-->
+<!--        <select id="stocksDropdown" name="name">-->
+<!--            <option value="">&#45;&#45; Изберете &#45;&#45;</option>-->
+<!--            <option th:each="issuer : ${issuers}"-->
+<!--                    th:value="${issuer.name}"-->
+<!--                    th:text="${issuer.name}">-->
+<!--            </option>-->
+<!--        </select>-->
+<!--        <button type="submit">Прикажи детали</button>-->
+<!--    </form>-->
+</ul>
+</body>
+</html>

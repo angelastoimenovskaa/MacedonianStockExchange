@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="mk">
+<head>
+    <meta charset="UTF-8">
+    <title>Акции на Македонската Берза</title>
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+
+        h1 {
+            color: #444;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        form, div {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            font-weight: bold;
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        select, button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            margin-top: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        button {
+            background-color: #007BFF;
+            color: #fff;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        a{
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            color: #007BFF;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        p {
+            margin: 10px 0;
+        }
+
+        strong {
+            color: #444;
+        }
+
+        li{
+            display:block;
+            text-align: center;
+            border-bottom-color: black;
+            padding-bottom: 35px;
+
+        }
+
+    </style>
+
+</head>
+<body>
+<h1>Избор на акции</h1>
+
+<ul>
+    <li th:each="issuer : ${issuers}">
+        <label th:for="${issuer.getName()}" th:text="${issuer.getName()}"></label>
+        <th:block>
+            <a style="
+             margin-top: 20px;
+             color: #007BFF;
+             text-decoration: none;"   th:href="@{'/issuers/details/{id}' (id=${issuer.getID()})}"
+               class="btn btn-sm btn-info edit-product">
+                <i class="fa fa-trash">Details</i>
+            </a>
+        </th:block>
+
+    </li>
+
+
+
+
+<!--    <form th:action="@{'/issuers/details'}" method="post">-->
+<!--        <label for="stocksDropdown">Изберете компанија:</label>-->
+<!--        <select id="stocksDropdown" name="name">-->
+<!--            <option value="">&#45;&#45; Изберете &#45;&#45;</option>-->
+<!--            <option th:each="issuer : ${issuers}"-->
+<!--                    th:value="${issuer.name}"-->
+<!--                    th:text="${issuer.name}">-->
+<!--            </option>-->
+<!--        </select>-->
+<!--        <button type="submit">Прикажи детали</button>-->
+<!--    </form>-->
+</ul>
+</body>
+</html>
