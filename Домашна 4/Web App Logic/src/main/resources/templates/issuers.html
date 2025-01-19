@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="mk">
+<head>
+    <meta charset="UTF-8">
+    <title>Детали за акција</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        h1, h2 {
+            color: #444;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        div {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        p {
+            margin: 10px 0;
+        }
+        strong {
+            color: #444;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f5f5f5;
+            color: #444;
+        }
+        .analysis-button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            margin-top: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: #007BFF;
+            color: #fff;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+        }
+        .analysis-button:hover {
+            background-color: #0056b3;
+        }
+        a {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+<h1>Детали за акција</h1>
+
+<!-- Основни информации -->
+<div th:if="${issuer != null}">
+    <p><strong>Компанија:</strong> <span th:text="${issuer.name}"></span></p>
+    <p><strong>Последен валиден датум:</strong> <span th:text="${issuer.date}"></span></p>
+</div>
+
+<!-- Основна анализа -->
+<div th:if="${basicAnalysis != null}">
+    <h2>Основна анализа</h2>
+    <p><strong>Препорака:</strong> <span th:text="${basicAnalysis}"></span></p>
+</div>
+
+<!-- LSTM Предвидување -->
+<div th:if="${lstmPrediction != null}">
+    <h2>LSTM Предвидување</h2>
+    <table>
+        <thead>
+        <tr>
+            <th>Предвидена цена за следниот ден</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="entry : ${lstmPrediction}">
+            <td th:text="${entry + ' МКД'}"></td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- Копче за анализа на сентименти -->
+<div>
+    <a th:href="@{/issuers/sentiment}" class="analysis-button">Анализа на вести</a>
+</div>
+
+<div th:unless="${issuer != null}">
+    <p>Нема избрана компанија</p>
+</div>
+
+<a href="/issuers">Назад кон листата</a>
+</body>
+</html>
